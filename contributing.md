@@ -28,3 +28,7 @@ Answer the following questions:
 ... Loading
 
 ```
+
+Add codebeat for code analysis.
+
+Screenshots of UI landing page
