@@ -28,3 +28,5 @@ Answer the following questions:
 ... Loading
 
 ```
+
+Add codebeat for code analysis.
